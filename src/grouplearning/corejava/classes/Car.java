@@ -2,6 +2,8 @@ package grouplearning.corejava.classes;
 
 public class Car {
 
+    // variables initialized below
+
     private String brand;
     private String model;
     private String color;
